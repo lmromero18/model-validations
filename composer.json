@@ -1,11 +1,11 @@
 {
-    "name": "ericcor/model-validations",
+    "name": "lmromero18/model-validations",
     "description": "Agregando validations a Eloquent models",
     "type": "library",
     "authors": [
         {
-            "name": "Eric Cordova",
-            "email": "ericcordova25@gmail.com"
+            "name": "Luis Romero",
+            "email": "luisromerod21@gmail.com"
         }
     ],
     "minimum-stability": "dev",
